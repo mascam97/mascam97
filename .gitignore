@@ -1,0 +1,5 @@
+# IDE and OS files
+.idea
+.fleet
+.vscode
+.DS_Store
